@@ -68,6 +68,7 @@
 | **[Tongyi Qianwen](https://tongyi.aliyun.com)** | 🆓 Free | Excel formulas, data analysis | ¥30-150/project |
 | **[Gamma](https://gamma.app)** | 🆓 Free tier | AI PPT generation | ¥50-200/project |
 | **[iFlytek Hear](https://iflyrec.com)** | 🆓 60 min/day | Speech-to-text | ¥20-100/project |
+| **[ResumeAI](https://withresumeai.com/)** | 🆓 Free tier | AI resume + free ATS checker | Free |
 
 ---
 
