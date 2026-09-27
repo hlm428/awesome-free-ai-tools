@@ -37,6 +37,7 @@
 
 | Tool | Price | Best For | Per-Project Rate |
 |------|-------|----------|-----------------|
+| **[Raphael](https://raphael.app)** | 🆓 Unlimited | Free AI image generator, multi-model routing | — |
 | **[Jimeng AI](https://jimeng.jianying.com)** | 🆓 200 credits/day | Image + video + music | ¥30-200/project |
 | **[Canva AI](https://www.canva.com)** | 🆓 Free plan | Templates, social media graphics | ¥20-100/project |
 | **[Leonardo.ai](https://leonardo.ai)** | 🆓 150 tokens/day | Game assets, character design | ¥30-300/project |
