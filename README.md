@@ -50,6 +50,8 @@
 | **[Kling AI](https://klingai.com)** | 🆓 Free tier | AI video generation | ¥500-3000/project |
 | **[CapCut](https://www.capcut.com)** | 🆓 Free | TikTok/Reels editing | ¥30-150/project |
 | **[Invideo AI](https://invideo.io)** | 🆓 10 min/week | One-click video creation | $50-150/day |
+| **[Cyanvid](https://cyanvid.com/?utm_source=hlm428-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks)** | 🆓 Free credits | AI video generator from text or images; credit quotes before generate | — |
+| **[Barz Studio](https://barzvideo.com/?utm_source=hlm428-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks)** | 🆓 Free | Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM | — |
 
 ### 💻 Coding & Development
 
